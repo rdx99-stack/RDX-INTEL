@@ -102,3 +102,4 @@ To wield this weapon, you only need the bare minimum:
 ```bash
 git clone https://github.com/YourUsername/RDX-Intel.git
 cd RDX-INTEL
+python3 rdx_intel.py
